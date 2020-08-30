@@ -42,7 +42,14 @@
 *** stack smashing detected ***: <unknown> terminated
 Abortado (`core' generado)
 
+    Compilando para deshabilitar la protecion de pila
+    gcc -g -fno-stack-protector -no-pie pisandopila.c -o eje
     
+    Al ejecutar se obtiene:
+     ./eje < raw_input2
+     Hola!!, CUDEK�����!
+     Violación de segmento (`core' generado) //en proceso de desarrollo
+
  * 
  
  */
