@@ -15,8 +15,11 @@
  6)Siga el codigo desensamblado para hacia atras persiguendo de donde vienen los valores que en ultima instancia se mandan a la funcion.
  7)Recordando el concepto de endianes de un microprocesador,y el formato ascii, identifique la password
  8)Llame a su madre y digale :"mama mama soy un hacker"
+
  
+
 0)ejecutar el programa.
+
  
  */
 
@@ -41,4 +44,3 @@ int main()
     printf("Fin del programa\n");
     
 }
-
