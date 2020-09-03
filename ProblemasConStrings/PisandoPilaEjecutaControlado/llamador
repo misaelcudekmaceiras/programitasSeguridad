@@ -4,16 +4,17 @@
 # This script opens 4 terminal windows.
 
 echo -e -n "A" > MiA
-i="14"
+i="1"
 
 while [ $i -lt 25 ]
 do
+echo $i
 cat MiA >> entrada
 ./eje < entrada
 i=$[$i+1]
 done
 i="1"
-
+rm entrada
 
 
 
