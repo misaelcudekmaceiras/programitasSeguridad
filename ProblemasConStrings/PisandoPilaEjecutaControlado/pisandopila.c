@@ -67,7 +67,7 @@ void NodeberiaEjecutarseNunca() {
 
 
 void FuncionHola() {
- char buffer[6];
+ char buffer[10];
  scanf("%s", buffer);
  printf("Hola!!, %s!\n", buffer);
 }
