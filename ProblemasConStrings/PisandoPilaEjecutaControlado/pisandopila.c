@@ -50,7 +50,11 @@ Abortado (`core' generado)
      Hola!!, CUDEK�����!
      Violación de segmento (`core' generado) //en proceso de desarrollo
 
- * 
+ *      AAAAAAAAAAAAAAAAA¼^E@
+Hola!!, AAAAAAAAAAAAAAAAA¼@!
+Nunca Digas Nunca de Nuevo 002
+[Inferior 1 (process 23361) exited normally]
+(gdb)
  
  */
 void FuncionHola();
